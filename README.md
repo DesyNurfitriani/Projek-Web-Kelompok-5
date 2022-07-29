@@ -1,8 +1,8 @@
 # Projek-Web-Kelompok-5
-Berikut taget projek kelompok 5
+pembagian tugas aplikasi 3 putri tani
 
-Desi Nurfitriani berhasil membuat login
-Yohana membuat login dan beranda dashboard
-M.Aulia muhamad sormin membuat login dan beranda dashboard 
-Roni berhasil membuat login
-Syafrizal membuat login
+* Desi Nurfitriani membuat laporan aplikasi dan laporan web
+* Yohana membuat data pengguna dan dashboard
+* M.Aulia muhamad sormin membuat transaksi dan stock
+* Roni berhasil membuat produk dan supplier
+* Syafrizal membuat pelanggan dan database
